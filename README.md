@@ -18,7 +18,7 @@ Design Systems, Threejs, CSS-in-JS, Codemods and mentorship!
 Huge thanks for all of the support from my sponsors!
 
 <p>
-    <a href="https://github.com/sayav"
+    <a href="https://github.com/preciselyalyss"
     ><img
             src="https://avatars1.githubusercontent.com/u/9373485?s=60&amp;v=4"
             width="40"
