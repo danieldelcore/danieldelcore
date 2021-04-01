@@ -6,6 +6,7 @@ Thanks for visiting my ~~MySpace~~ Github ❤️!
 - [Atlaskit: Atlassian's Design System](http://atlaskit.atlassian.com/)
 - [Trousers: A hook based CSS-in-JS library](https://github.com/danieldelcore/trousers)
 - [Precursor: A minimalistic component library](https://github.com/danieldelcore/precursor)
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
 
 **Im passionate about 😍**
 
