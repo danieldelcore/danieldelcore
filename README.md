@@ -26,4 +26,11 @@ Huge thanks for all of the support from my sponsors!
             height="40"
             alt="@PreciselyAlyss"
     /></a>
+    <a href="https://github.com/preciselyalyss"
+    ><img
+            src="https://avatars.githubusercontent.com/u/1734502?s=70&v=4"
+            width="40"
+            height="40"
+            alt="@PreciselyAlyss"
+    /></a>
  </p>
