@@ -1,6 +1,9 @@
-### Hi, I'm Daniel 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/3030010/179635127-0010fc61-be16-48f7-ae5f-33fef7b7e72a.png">
+  <img width="120px" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/3030010/179635113-08705c37-6ee0-487e-8ed4-f946d17bd31e.png">
+</picture>
 
-Thanks for visiting my ~~MySpace~~ Github ❤️!
+Hi, I'm Daniel 👋 Thanks for visiting my ~~MySpace~~ Github!
 
 **PROJECTS**
 - [🚚 CodeshiftCommunity](https://www.codeshiftcommunity.com/), Community-owned global registry and documentation hub for codemods.
@@ -35,3 +38,4 @@ Huge thanks for all of the support from my sponsors!
             alt="@PreciselyAlyss"
     /></a>
  </p>
+ 
