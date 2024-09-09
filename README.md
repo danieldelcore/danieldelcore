@@ -6,6 +6,7 @@
 Hi, I'm Daniel 👋 Thanks for visiting my ~~MySpace~~ Github!
 
 **PROJECTS**
+- [✨ Hypermod.io](https://www.hypermod.io/), Publish powerful code transformations across multiple repos.
 - [🚚 CodeshiftCommunity](https://www.codeshiftcommunity.com/), Community-owned global registry and documentation hub for codemods.
 - [🅰️ Atlaskit](http://atlaskit.atlassian.com/), Atlassian's Design System
 - [👖 Trousers](https://github.com/danieldelcore/trousers), The hooks-first CSS-in-JS library
